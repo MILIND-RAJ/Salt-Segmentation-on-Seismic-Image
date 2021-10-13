@@ -1,0 +1,14 @@
+Flask
+gunicorn
+torch
+fastai==1.0.61
+traceback2
+joblib
+Pillow
+click
+itsdangerous
+Jinja2
+MarkupSafe
+itsdangerous
+Werkzeug
+pytz
